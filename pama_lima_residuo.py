@@ -1,0 +1,1 @@
+# semplice associazione tra pama e lima potenziali in risidui
